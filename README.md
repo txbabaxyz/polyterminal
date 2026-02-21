@@ -25,7 +25,7 @@ Trading terminal for Polymarket 15-minute crypto markets (BTC, ETH, SOL, XRP).
 
 ```bash
 git clone https://github.com/txbabaxyz/polyterminal.git
-cd polymarket-bot
+cd polyterminal
 ```
 
 ### 2. Create Virtual Environment
@@ -275,7 +275,7 @@ logs/
 ## Updating
 
 ```bash
-cd polymarket-bot
+cd polyterminal
 git pull
 source venv/bin/activate
 pip install -r requirements.txt --upgrade
